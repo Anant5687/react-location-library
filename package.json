@@ -1,6 +1,6 @@
 {
     "name": "new-react-location",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
@@ -27,4 +27,3 @@
         "rollup-plugin-postcss": "^4.0.2"
     }
 }
-
