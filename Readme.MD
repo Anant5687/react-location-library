@@ -1,27 +1,17 @@
 new-react-location is a simple React hook that provides easy access to the user's geolocation. It returns the user's current position (longitude and latitude) or an error if the user denies location access. This package is designed to integrate seamlessly into your React applications, making it effortless to retrieve and manage geolocation data.
+<br><br><br>
 
 
-
-Installation
-To install new-react-location, run the following command:
-
+Installation<br>
+To install new-react-location, run the following command:<br>
+<br>
 npm install new-react-location
+<br><br><br>
 
 
-
-
-
-Sure! Here's a sample README.md section that you can use for your package:
-
-new-react-location
-new-react-location is a simple React hook that provides easy access to the user's geolocation. It returns the user's current position (longitude and latitude) or an error if the user denies location access. This package is designed to integrate seamlessly into your React applications, making it effortless to retrieve and manage geolocation data.
-
-Installation
-To install new-react-location, run the following command:
-
-Example
-import React from 'react';
-import useLocation from 'new-react-location';
+Example<br>
+import React from 'react';<br>
+import useLocation from 'new-react-location';<br>
 
 function MyComponent() {
     const { position, error } = useLocation();
